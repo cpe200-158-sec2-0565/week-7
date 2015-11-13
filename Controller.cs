@@ -24,6 +24,7 @@ namespace twozerofoureight
         public virtual void ActionPerformed(int action)
         {
             throw new NotImplementedException();
+
         }
     }
 }
